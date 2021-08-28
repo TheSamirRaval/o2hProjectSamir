@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Samir Gallery</string>
+
+    <!--Base String-->
+    <string name="ok">Ok</string>
+    <string name="no_item">No Item Found</string>
+
+    <!--Login/Registration-->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="place">Place</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <!--Get User-->
+    <string name="logout">LogOut</string>
+    <string name="all_user">All Users</string>
+
+    <!--MandoBk Screen-->
+    <string name="enter_data">Enter Data</string>
+    <string name="submit">Submit</string>
+    <string name="data">Data</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="hint_shop_search_name">Write Shop Name</string>
+    <string name="shop_id">Shop Id</string>
+    <string name="shop_title">Shop Title</string>
+    <string name="shop_status">Shop Status</string>
+
+
+</resources>
